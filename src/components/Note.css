@@ -1,0 +1,9 @@
+.Note {
+  background-color: rgb(202, 88, 88);
+  width: 140px;
+  padding: 20px;
+  border-radius: 10px;
+  flex-direction: row;
+  display: flex;
+  justify-content: center;
+}
